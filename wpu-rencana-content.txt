@@ -3,3 +3,7 @@ Belajar baru
 - Belajar git hub
 - Belajar Instalasi baru aplikasi
 - fundamental data struktur
+
+
+
+- framework django si a atau 1
