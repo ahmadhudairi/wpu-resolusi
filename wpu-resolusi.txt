@@ -3,7 +3,10 @@ WPU RESOLUSI
 - Belajar Django
 - Menyelsaikan sertigikat digitalent kominfo
 - Belajar membuat projek sederhana
-- Belajar javascript atau web developer
+Belajar javascript atau web developer
+-
+
+
 
 Projek Projek pilihan
 - Membuat program sederhana dengan python
