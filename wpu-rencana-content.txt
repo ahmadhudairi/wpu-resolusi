@@ -4,5 +4,6 @@ Belajar baru
 - Belajar Instalasi baru aplikasi
 - fundamental data struktur
 
-- Membuat fitur menjadi ke 1 atau b
-- membua firu menjadi ke 2 atau b
+- framework django si a atau 1
+- menambah dango si a atau 1 memnajdi 2 bagian
+
