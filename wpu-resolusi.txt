@@ -4,3 +4,7 @@ WPU RESOLUSI
 - Menyelsaikan sertigikat digitalent kominfo
 - Belajar membuat projek sederhana
 - Belajar javascript atau web developer
+
+Projek Projek pilihan
+- Membuat program sederhana dengan python
+- membuat website dengan django
