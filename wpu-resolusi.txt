@@ -1,0 +1,6 @@
+WPU RESOLUSI
+- Belajar Python Dasar dan OOP
+- Belajar Django
+- Menyelsaikan sertigikat digitalent kominfo
+- Belajar membuat projek sederhana
+- Belajar javascript atau web developer
