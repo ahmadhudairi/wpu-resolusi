@@ -7,3 +7,4 @@ Belajar baru
 
 
 - framework django si a atau 1
+- menambah dango si a atau 1 memnajdi 2 bagian
