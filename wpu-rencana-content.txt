@@ -2,3 +2,4 @@ Belajar baru
 - Belajar git
 - Belajar git hub
 - Belajar Instalasi baru aplikasi
+- fundamental data struktur
